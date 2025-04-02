@@ -1,28 +1,3 @@
-// using System.ComponentModel.DataAnnotations;
-
-// namespace TaskManagerAPI.Models
-// {
-//     public class TaskItem
-//     {
-//         [Key]
-//         public int Id { get; set; }
-
-//         [Required(ErrorMessage = "O título é obrigatório")]
-//         [MaxLength(200)]
-//         public string Title { get; set; }
-
-//         [Required(ErrorMessage = "A descrição é obrigatória")]
-//         public string Description { get; set; }
-
-//         [Required(ErrorMessage = "A data final é obrigatória")]
-//         public DateTime FinishedAt { get; set; }
-
-//         public bool IsCompleted { get; set; }
-//     }
-// }
-
-
-
 using System;
 using System.ComponentModel.DataAnnotations;
 

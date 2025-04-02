@@ -110,3 +110,5 @@ C:\Users\David\Desktop\Projetos\teste-tecnico-avine\api\tasks\obj\Debug\net8.0\r
 C:\Users\David\Desktop\Projetos\teste-tecnico-avine\api\tasks\obj\Debug\net8.0\Tasks.pdb
 C:\Users\David\Desktop\Projetos\teste-tecnico-avine\api\tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
 C:\Users\David\Desktop\Projetos\teste-tecnico-avine\api\tasks\obj\Debug\net8.0\ref\Tasks.dll
+C:\Users\David\Desktop\Projetos\teste-tecnico-avine\api\tasks\bin\Debug\net8.0\appsettings.example.json
+C:\Users\David\Desktop\Projetos\teste-tecnico-avine\api\tasks\obj\Debug\net8.0\Tasks.sourcelink.json

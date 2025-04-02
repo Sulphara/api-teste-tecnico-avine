@@ -1,0 +1,3 @@
+# Ignorar credenciais do banco de dados
+/appsettings.json
+
