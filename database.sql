@@ -1,0 +1,7 @@
+CREATE TABLE tasks (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    Title VARCHAR(255) NOT NULL,
+    Description TEXT NOT NULL,
+    FinishedAt DATETIME NOT NULL,
+    IsCompleted BOOLEAN NOT NULL DEFAULT 0
+);
